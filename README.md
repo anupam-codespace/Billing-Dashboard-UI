@@ -2,6 +2,8 @@
 
 A minimalist, high-contrast monochromatic billing and business analytics dashboard engineered with Next.js 14, shadcn/ui primitives, Tailwind CSS, and TypeScript. Designed for clarity, operational speed, and seamless financial tracking with native Indian Rupee (INR) localization and modern payment rail integration.
 
+**Live Deployment:** [https://billing-dashboard-three.vercel.app](https://billing-dashboard-three.vercel.app)
+
 ---
 
 ## Overview
