@@ -66,7 +66,7 @@ The application adheres to modern frontend engineering standards with an emphasi
 - **Stateful Sidebar Expansion**: Desktop users can toggle full or compact navigation states with smooth SVG chevron transitions, while mobile users receive compact icon-driven bars with hover tooltips.
 - **Active Route Highlighting**: Employs Next.js `usePathname` hook to compute button variant states (`default` vs. `ghost`) to provide real-time visual feedback for current route placement.
 
----
+--
 
 ## Interactive Modules and User Capabilities
 
