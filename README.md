@@ -17,6 +17,8 @@
   A production-ready monochromatic billing, transaction tracking, and business operations dashboard built with Next.js 14 App Router, TypeScript, shadcn/ui primitives, and Tailwind CSS. Engineered with strict contrast ergonomics, localized currency tracking in Indian Rupee (INR), and accessible data interfaces.
 </p>
 
+
+
 <p align="center">
   <a href="https://billing-dashboard-three.vercel.app" target="_blank"><strong>Live Demo</strong></a> &bull;
   <a href="https://github.com/anupam-codespace/Monochromatic-UI-Dashboard" target="_blank"><strong>GitHub Repository</strong></a> &bull;
