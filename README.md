@@ -26,8 +26,6 @@
   <a href="#getting-started"><strong>Setup Guide</strong></a>
 </p>
 
----
-
 </div>
 
 ## Overview
