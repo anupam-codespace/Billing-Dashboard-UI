@@ -34,7 +34,6 @@ Billing Dashboard delivers a streamlined, high-contrast operational console for 
 The platform provides end-to-end frontend interfaces for tracking executive revenue metrics, inspecting monthly gross billing trends, administering verified client directories with automated avatar generation, reviewing multi-status order lifecycles, and managing regional tenant configurations.
 
 ---
-
 ## Frontend Technical Specifications
 
 The application adheres to modern frontend engineering standards with an emphasis on type safety, modular component contracts, accessible interaction states, and predictable client-server rendering.
